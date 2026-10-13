@@ -54,7 +54,7 @@ export function App() {
         supabase.auth.signOut()
       }}
     >
-      Logout User
+      Logout Account
     </Button>
     </div>
   )
